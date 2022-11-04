@@ -1,7 +1,7 @@
 ---
 title: 余文祺
 role: Professor of Artificial Intelligence
-avatar_filename: 微信图片_20211214110246.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
