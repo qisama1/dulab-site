@@ -1,7 +1,7 @@
 ---
 title: 余文祺
 role: Professor of Artificial Intelligence
-avatar_filename: avatar.jpg
+avatar_filename: 微信图片_20211214110246.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -16,9 +16,9 @@ social:
     icon: google-scholar
 organizations:
   - name: Stanford University
-superuser: false
+superuser: true
 user_groups:
-  - Researchers
+  - Professors
 ---
 吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
