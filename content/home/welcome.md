@@ -10,7 +10,7 @@ design:
   css_style: null
   css_class: null
   background:
-    image: 微信图片_20220816150337.jpg
+    image: welcome.jpg
 ---
 <br>
 
